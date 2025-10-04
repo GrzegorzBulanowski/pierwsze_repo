@@ -1,2 +1,3 @@
-Name:{Grzegorz Bułanowski}
+Name: {Grzegorz Bułanowski}
 University: PJATK
+Student id: s36114
